@@ -95,6 +95,8 @@ public class UI implements ActionListener {
 		
         panel.add(butMultiply);
         panel.add(butDivide);
+		
+		
         panel.add(butSquare);
         panel.add(butSquareRoot);
         panel.add(butOneDevidedBy);
