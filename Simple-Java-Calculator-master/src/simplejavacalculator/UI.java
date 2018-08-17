@@ -89,6 +89,8 @@ public class UI implements ActionListener {
         panel.add(but[0]);
 
         panel.add(butAdd);
+		
+		
         panel.add(butMinus);
         panel.add(butMultiply);
         panel.add(butDivide);
