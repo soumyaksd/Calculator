@@ -131,7 +131,7 @@ public class UI implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         final Object source = e.getSource();
-
+		System.out.print("chage tot test");
         for (int i = 0; i < 10; i++) {
             if (source == but[i]) {
                 text.replaceSelection(buttonValue[i]);
